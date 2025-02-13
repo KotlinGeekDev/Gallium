@@ -60,6 +60,7 @@
 				"stress-ng",
 				"tailscale",
 				"tmux",
+				"topgrade",
 				"ublue-fastfetch",
 				"ublue-motd",
 				"usbmuxd",
@@ -139,6 +140,7 @@
 				"podman-tui",
 				"podmansh",
 				"powerline-fonts",
+				"python3-ramalama",
 				"qemu-char-spice",
 				"qemu-device-display-virtio-gpu",
 				"qemu-device-display-virtio-vga",
@@ -167,8 +169,7 @@
 			"all": [
 				"firefox-langpacks",
 				"firefox",
-				"podman-docker",
-				"ublue-os-update-services"
+				"podman-docker"
 			],
 			"silverblue": [
 				"gnome-extensions-app",

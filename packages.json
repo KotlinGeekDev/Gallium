@@ -28,6 +28,7 @@
 				"gum",
 				"hplip",
 				"krb5-workstation",
+				"ibus-mozc",
 				"ifuse",
 				"input-leap",
 				"input-remapper",
@@ -38,6 +39,7 @@
 				"lm_sensors",
 				"make",
 				"mesa-libGLU",
+				"mozc",
 				"nerd-fonts",
 				"oddjob-mkhomedir",
 				"opendyslexic-fonts",
@@ -45,6 +47,7 @@
 				"pulseaudio-utils",
 				"powertop",
 				"python3-pip",
+				"python3-pygit2",
 				"rclone",
 				"restic",
 				"samba-dcerpc",
@@ -60,6 +63,7 @@
 				"stress-ng",
 				"tailscale",
 				"tmux",
+				"topgrade",
 				"ublue-fastfetch",
 				"ublue-motd",
 				"usbmuxd",
@@ -139,6 +143,7 @@
 				"podman-tui",
 				"podmansh",
 				"powerline-fonts",
+				"python3-ramalama",
 				"qemu-char-spice",
 				"qemu-device-display-virtio-gpu",
 				"qemu-device-display-virtio-vga",
@@ -167,8 +172,7 @@
 			"all": [
 				"firefox-langpacks",
 				"firefox",
-				"podman-docker",
-				"ublue-os-update-services"
+				"podman-docker"
 			],
 			"silverblue": [
 				"gnome-extensions-app",
